@@ -4,6 +4,7 @@
 This project simulates and analyzes rideshare data from Uber and Lyft, using a custom event-driven simulation built with SimPy. The analysis includes ride cancellations, price trends, driver availability, ride durations, and more. It incorporates weather conditions, ride types, and surge pricing to simulate realistic scenarios.
 
 You can download the dataset from the following link: [Download rideshare_kaggle.csv](https://www.kaggle.com/datasets/mohan28169/rideshare-kagglecsv)
+* Note: The dataset was too large to upload to the repo
 
 ## Key Features
 - **Ride Simulation**: Simulate real-time ride processes, including cancellations, driver availability, and pricing adjustments.
