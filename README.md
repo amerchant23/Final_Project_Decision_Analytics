@@ -23,3 +23,4 @@ You can download the dataset from the following link: [Download rideshare_kaggle
 - Python 3.x
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, SimPy
 
+Video Presentation: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e07348ce-3a28-4b65-ad90-b2400113c940
